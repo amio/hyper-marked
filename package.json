@@ -1,0 +1,33 @@
+{
+  "name": "hyper-marked",
+  "version": "1.0.0",
+  "description": "Convert markdown strings to complete HTML pages using marked",
+  "author": "Amio <amio.cn@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "bin": {
+    "hyper-marked": "./bin/hyper-marked.js"
+  },
+  "scripts": {
+    "test": "node --test test/**/*.test.js",
+    "build": "echo 'No build step required'",
+    "prepublishOnly": "npm test"
+  },
+  "dependencies": {
+    "marked": "^12.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "keywords": [
+    "markdown",
+    "html",
+    "converter",
+    "marked",
+    "page",
+    "documentation"
+  ]
+}
