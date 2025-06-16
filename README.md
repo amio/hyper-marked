@@ -42,6 +42,8 @@ const html = hyperMarked(markdown, {
 
 ## CLI
 
+`npm i -g hyper-marked`
+
 ```
 hyper-marked - Convert markdown to complete HTML pages
 
