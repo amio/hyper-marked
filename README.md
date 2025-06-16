@@ -1,5 +1,8 @@
 # hyper-marked
 
+[![version][npm-badge]][npm-link]
+[![repo][github-src]][github-link]
+
 Convert markdown strings to complete HTML pages using [marked](https://github.com/markedjs/marked).
 
 ## Usage
@@ -68,3 +71,8 @@ Examples:
 ## License
 
 MIT
+
+[github-src]: https://badgen.net/badge/-/amio%2Fhyper-marked/black?icon=github&label=
+[github-link]: https://github.com/amio/hyper-marked
+[npm-badge]: https://badgen.net/npm/v/hyper-marked
+[npm-link]: https://www.npmjs.com/package/hyper-marked

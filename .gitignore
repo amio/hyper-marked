@@ -100,3 +100,5 @@ dist
 
 # Generated example files
 example-*.html
+index.html
+.vercel
