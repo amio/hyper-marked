@@ -1,0 +1,60 @@
+# Test files
+test/
+*.test.js
+*.spec.js
+
+# Development files
+.github/
+.vscode/
+.idea/
+
+# Configuration files
+.eslintrc*
+.prettierrc*
+.editorconfig
+tsconfig.json
+jest.config.js
+rollup.config.js
+webpack.config.js
+
+# Documentation drafts
+docs/
+CONTRIBUTING.md
+CHANGELOG.md
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Build artifacts
+dist/
+build/
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/
+
+# Lock files (optional - some prefer to include them)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment files
+.env*
+
+# Log files
+*.log
+
+# Examples and demos (if any)
+examples/
+demo/

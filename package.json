@@ -29,5 +29,10 @@
     "marked",
     "page",
     "documentation"
+  ],
+  "files": [
+    "lib/",
+    "bin/",
+    "README.md"
   ]
 }
