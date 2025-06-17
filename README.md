@@ -3,7 +3,9 @@
 [![version][npm-badge]][npm-link]
 [![repo][github-src]][github-link]
 
-Convert markdown to full page HTML string using [marked](https://github.com/markedjs/marked). See the rendered [homepage](https://hyper-marked.vercel.app) for this README.
+Convert markdown to a full-page HTML string using [marked](https://github.com/markedjs/marked), featuring a built-in minimalist style.
+
+For an example, refer to the rendered [homepage](https://hyper-marked.vercel.app) of this README.
 
 ## Usage
 
