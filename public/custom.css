@@ -1,0 +1,7 @@
+.markdown-content h1 + p {
+    text-align: center;
+    margin: -43px 0 4rem 0;
+    line-height: 20px;
+    height: 20px;
+    z-index: 1;
+}
